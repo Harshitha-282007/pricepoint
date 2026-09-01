@@ -4,3 +4,5 @@ matplotlib
 seaborn
 scipy
 jupyter
+statsmodels
+scikit-learn
